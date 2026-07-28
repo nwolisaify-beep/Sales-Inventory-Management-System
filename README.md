@@ -76,6 +76,6 @@ This project strengthened my understanding of:
 - Business intelligence and reporting
 
 ## Author
-**Your Name**
+**Ifeyinwa Nwolisa**
 
 Data Analyst | Finance Professional | SQL | Excel | Power BI | Python
